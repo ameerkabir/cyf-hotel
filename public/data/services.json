@@ -1,0 +1,20 @@
+[
+    {
+    "images": "assets/",
+    "type of room": "double room",
+    
+    "price": 99
+},
+{
+    "images": "assets/",
+    "type of room": "single room",
+    "price": 55
+
+},
+{
+    "images": "assets/",
+    "type of room": "luxurary room",
+    "price": 990
+}
+
+]

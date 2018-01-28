@@ -20,7 +20,7 @@ router.get("/:id?", (req, res) => {
 
 router.post("/", (req, res) => {
   // TODO read req.body.customer
-  res.status(200).json(req.body.customer);
+  res.status(200).json(req.body.cus);
 });
 
 router.put("/", (req, res) => {
